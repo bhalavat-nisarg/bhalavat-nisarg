@@ -23,9 +23,9 @@ I am Nisarg Bhalavat, an IT Engineer based in Mumbai, India. I have completed my
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ## &#x1f4c8; Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&count_private=true&show_icons=true&include_all_commits=true&line_height=40)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&count_private=true&show_icons=true&include_all_commits=true&hide=issues)
 <!--
 **bhalavat-nisarg/bhalavat-nisarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
