@@ -5,6 +5,7 @@ I am Nisarg Bhalavat, an IT Engineer based in Mumbai, India. I have completed my
 [![Linkedin Badge](https://img.shields.io/badge/-Nisarg_Bhalavat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisarg-bhalavat/)](https://www.linkedin.com/in/nisarg-bhalavat/)
 [![Instagram Badge](https://img.shields.io/badge/-bhalavat.nisarg-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bhalavat.nisarg/)](https://www.instagram.com/bhalavat.nisarg/)
 
+
 ## 🔧 Tools & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F7F7F7?style=flat-square&logo=Node.js)
@@ -21,6 +22,7 @@ I am Nisarg Bhalavat, an IT Engineer based in Mumbai, India. I have completed my
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 
 ## &#x1f4c8; Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg)
