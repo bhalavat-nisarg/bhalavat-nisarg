@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, India. I am currently working at [KPMG India](https://home.kpmg/in/en/home.html). I have completed my Bachelor's degree from [NMIMS University, Mumbai](https://www.nmims.edu/). I am a Web, Mobile and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
+I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, Gujarat IN. I recently joined [KPMG India](https://home.kpmg/in/en/home.html) as an Analyst. I have completed my Bachelor's degree from [NMIMS University, Mumbai](https://www.nmims.edu/). I am a Web, Mobile and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nisarg_Bhalavat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisarg-bhalavat/)](https://www.linkedin.com/in/nisarg-bhalavat/)
 [![Instagram Badge](https://img.shields.io/badge/-bhalavat.nisarg-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bhalavat.nisarg/)](https://www.instagram.com/bhalavat.nisarg/)
@@ -25,8 +25,8 @@ I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, India. I am currentl
 
 
 ## &#x1f4c8; Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&count_private=true&show_icons=true&include_all_commits=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg&langs_count=4)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&line_height=40)
 
 <!--
 **bhalavat-nisarg/bhalavat-nisarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
