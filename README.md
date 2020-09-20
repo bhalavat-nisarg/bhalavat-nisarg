@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Nisarg Bhalavat, an IT Engineer based in Mumbai, India. I have completed my Bachelor's degree from [NMIMS University, Mumbai](https://www.nmims.edu/). I am a Web, Mobile and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
+I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, India. I am currently working at [KPMG India](https://home.kpmg/in/en/home.html). I have completed my Bachelor's degree from [NMIMS University, Mumbai](https://www.nmims.edu/). I am a Web, Mobile and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nisarg_Bhalavat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisarg-bhalavat/)](https://www.linkedin.com/in/nisarg-bhalavat/)
 [![Instagram Badge](https://img.shields.io/badge/-bhalavat.nisarg-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bhalavat.nisarg/)](https://www.instagram.com/bhalavat.nisarg/)
