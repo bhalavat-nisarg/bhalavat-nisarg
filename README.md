@@ -25,8 +25,8 @@ I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, Gujarat IN. I recent
 
 
 ## &#x1f4c8; Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg&langs_count=4&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg&langs_count=5&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&line_height=35)
 
 <!--
 **bhalavat-nisarg/bhalavat-nisarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
