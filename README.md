@@ -1,12 +1,14 @@
 # Hi there 👋
 
-I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, Gujarat IN. I recently joined [KPMG India](https://home.kpmg/in/en/home.html) as an Oracle Analyst and have completed my Bachelor's degree from [NMIMS University, Mumbai](https://www.nmims.edu/). I am a Web, Mobile and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
+I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, Gujarat IN. I have completed my Bachelor's degree from [NMIMS University, Mumbai](https://www.nmims.edu/). I am a Web, Mobile and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
 
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-Nisarg_Bhalavat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisarg-bhalavat/)](https://www.linkedin.com/in/nisarg-bhalavat/)
 [![Instagram Badge](https://img.shields.io/badge/-bhalavat.nisarg-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/bhalavat.nisarg/)](https://www.instagram.com/bhalavat.nisarg/)
-
+-->
 
 ## 🔧 Tools & Technologies
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F7F7F7?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white)
@@ -15,13 +17,14 @@ I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, Gujarat IN. I recent
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 
 
 ## &#x1f4c8; Github Stats
