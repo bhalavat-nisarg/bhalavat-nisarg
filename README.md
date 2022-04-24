@@ -1,13 +1,17 @@
-# Hi there 👋
+Hi 👋 My name is Nisarg Bhalavat
+================================
 
-I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, Gujarat IN. I have completed my Bachelor's degree from [NMIMS University, Mumbai](https://www.nmims.edu/). I am a Web, Mobile and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
+Web, Mobile and Software Developer
+----------------------------------
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-Nisarg_Bhalavat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisarg-bhalavat/)](https://www.linkedin.com/in/nisarg-bhalavat/)
-[![Instagram Badge](https://img.shields.io/badge/-bhalavat.nisarg-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/bhalavat.nisarg/)](https://www.instagram.com/bhalavat.nisarg/)
--->
+I am an IT engineer seeking to work on challenging scenarios for building, improvising, and automating processes. I am passionate about Backend development and seek to sharpen my skills with hands-on projects and collaborations. I am a Web, Mobile, and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas.
 
-## 🔧 Tools & Technologies
+* 🌍  I'm based in Vadodara, Gujarat IN
+* 🧠  I'm learning Oracle Digital Assistant (ODA customizations)
+* 🤝  I'm open to collaborating on any interesting or challenging task
+
+## 🔧 Skills
+
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F7F7F7?style=flat-square&logo=Node.js)
@@ -25,12 +29,21 @@ I am Nisarg Bhalavat, an IT Engineer based out of Vadodara, Gujarat IN. I have c
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+<!-- ## Socials
 
-
+<p align="left"> <a href="https://www.github.com/bhalavat-nisarg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+ -->
 ## &#x1f4c8; Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg&langs_count=5&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&line_height=30)
 
+<a href="http://www.github.com/bhalavat-nisarg"><img src="https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bhalavat-nisarg's GitHub stats" /></a>
+
+<a href="http://www.github.com/bhalavat-nisarg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhalavat-nisarg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/bhalavat-nisarg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalavat-nisarg&langs_count=5&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bhalavat-nisarg&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&line_height=30)
+ -->
 <!--
 **bhalavat-nisarg/bhalavat-nisarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
