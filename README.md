@@ -1,10 +1,10 @@
 Hi 👋 My name is Nisarg Bhalavat
 ================================
 
-Software Developer
+Mysterious Tech Maverick
 ----------------------------------
 
-I am a Software Developer seeking to work on challenging scenarios for building, improvising, and automating processes. I am passionate about Backend and FullStack development and seek to sharpen my skills with hands-on projects and collaborations. I am also a Web, and Mobile Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas.
+I am an Innovative Computer Science Engineer with expertise in Cloud Computing, Machine Learning, and Solution Architecture seeking to work on challenging scenarios for building, improvising, and automating processes. I am passionate about Backend and FullStack development and seek to sharpen my skills with hands-on projects and collaborations. I am also a Web, and Mobile Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas.
 
 * 🌍  I'm based in San Jose, CA
 * 🧠  I'm studying at Santa Clara University
