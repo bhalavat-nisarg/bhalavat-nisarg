@@ -1,13 +1,13 @@
 Hi 👋 My name is Nisarg Bhalavat
 ================================
 
-Web, Mobile and Software Developer
+Software Developer
 ----------------------------------
 
-I am an IT engineer seeking to work on challenging scenarios for building, improvising, and automating processes. I am passionate about Backend development and seek to sharpen my skills with hands-on projects and collaborations. I am a Web, Mobile, and Software Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas.
+I am a Software Developer seeking to work on challenging scenarios for building, improvising, and automating processes. I am passionate about Backend and FullStack development and seek to sharpen my skills with hands-on projects and collaborations. I am also a Web, and Mobile Developer and a Tech enthusiast. I am always open to collaborating on projects and innovative ideas.
 
-* 🌍  I'm based in Vadodara, Gujarat IN
-* 🧠  I'm learning Oracle Digital Assistant (ODA customizations)
+* 🌍  I'm based in San Jose, CA
+* 🧠  I'm studying at Santa Clara University
 * 🤝  I'm open to collaborating on any interesting or challenging task
 
 ## 🔧 Skills
@@ -17,6 +17,7 @@ I am an IT engineer seeking to work on challenging scenarios for building, impro
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F7F7F7?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F7CC41?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-DE0B08?style=flat-square&logo=angular)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,6 +29,7 @@ I am an IT engineer seeking to work on challenging scenarios for building, impro
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Flutter](https://img.shields.io/badge/-Flutter-00599C?style=flat-square&logo=flutter)
 
 <!-- ## Socials
 
